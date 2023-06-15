@@ -1,0 +1,8 @@
+fvcore
+termcolor
+torch==1.7.0
+torchvision==0.8.1
+timm==0.3.2
+mmcv-full==1.2.4
+mmsegmentation==0.10.0
+mmdet==2.8.0
